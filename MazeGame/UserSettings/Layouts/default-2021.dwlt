@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2560
     height: 1277
   m_ShowMode: 4
-  m_Title: "\u30B7\u30FC\u30F3"
+  m_Title: "\u30B2\u30FC\u30E0"
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 33
+  controlID: 19
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 605
     height: 1227
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -94,8 +94,8 @@ MonoBehaviour:
     y: 0
     width: 484
     height: 731
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -317,22 +317,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs
+    - Assets/Sounds
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Prefabs
+  - Assets/Sounds
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /home/bruno/MazeGame/MazeGame
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: d65a0000
-    m_LastClickedID: 23254
-    m_ExpandedIDs: 00000000a25a000000ca9a3b
+    m_SelectedIDs: f05d0000
+    m_LastClickedID: 24048
+    m_ExpandedIDs: 00000000ba5d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -360,7 +360,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000a25a0000
+    m_ExpandedIDs: 00000000ba5d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -490,7 +490,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: c89effff149fffffca9fffff2aa3ffff52a4ffffb8a5ffff74a6ffffe8a8ffffbca9ffff0caeffff92b4ffffd0b5ffff5cbaffff9cbfffffa6c2ffffcec6ffff28c8fffffac9fffff0ccffffaccdffff68ceffff10dfffffaaf7fffff0f7ffff98f9ffff38fbffff3e5c0000465c0000328700003a870000b88a0000c08a00007a8b0000828b0000368c00003e8c0000cc8f0000f08f0000f88f00008a900000ae900000b69000007c920000a0920000a892000096930000ba930000c293000052940000769400007e940000c895000008a0000026a000002ea00000
+      m_ExpandedIDs: c6cbffff62cfffff92d3ffff24d4ffff30dbffff70e0ffff1ae1ffffcaecffff64f1ffffe8faffffa06a0000aa6a0000806b00008a6b0000346d00003e6d0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -739,9 +739,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 73.7356, y: -100.32313, z: 5.833787}
+    m_Target: {x: 6.2, y: 1.1399996, z: -6.8199997}
     speed: 2
-    m_Value: {x: 73.7356, y: -100.32313, z: 5.833787}
+    m_Value: {x: 6.2, y: 1.1399996, z: -6.8199997}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -788,13 +788,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.3362589, y: -0.6093478, z: 0.31853974, w: -0.6437976}
+    m_Target: {x: -0.16033222, y: -0.6945727, z: 0.1634971, w: -0.6822794}
     speed: 2
-    m_Value: {x: -0.3362055, y: -0.6092511, z: 0.31848916, w: -0.64369535}
+    m_Value: {x: -0.16030224, y: -0.6944428, z: 0.16346653, w: -0.6821518}
   m_Size:
-    m_Target: 73.64209
+    m_Target: 0.8929633
     speed: 2
-    m_Value: 70.4709
+    m_Value: 0.8929633
   m_Ortho:
     m_Target: 0
     speed: 2
