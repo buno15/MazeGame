@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2560
     height: 1277
   m_ShowMode: 4
-  m_Title: "\u30B7\u30FC\u30F3"
+  m_Title: "\u30B2\u30FC\u30E0"
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 113
+  controlID: 172
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -94,8 +94,8 @@ MonoBehaviour:
     y: 0
     width: 484
     height: 731
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 114
+  controlID: 173
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 18
+  controlID: 174
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -317,22 +317,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs
+    - Assets/Scenes
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Prefabs
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /home/bruno/MazeGame/MazeGame
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: d65d0000
-    m_LastClickedID: 24022
-    m_ExpandedIDs: 00000000945d000000ca9a3b
+    m_SelectedIDs: e45d0000
+    m_LastClickedID: 24036
+    m_ExpandedIDs: 00000000a25d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -360,7 +360,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000945d0000
+    m_ExpandedIDs: 00000000a25d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -487,10 +487,10 @@ MonoBehaviour:
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 79}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 5441ffffb255ffffb257ffff50c1ffff18e8ffff4cf6ffff0efbfffff85d0000025e0000f09a0000
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 1a3bffff
+      m_LastClickedID: -50406
+      m_ExpandedIDs: 023cffffb045fffff04fffff9af6ffff0efbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -739,9 +739,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 3.9530344, y: -144.25285, z: 35.692894}
+    m_Target: {x: 72.36811, y: -163.97325, z: -22.638273}
     speed: 2
-    m_Value: {x: 3.9530344, y: -144.25285, z: 35.692894}
+    m_Value: {x: 72.36811, y: -163.97325, z: -22.638273}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -788,13 +788,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.6344405, y: -0.0006525893, z: -0.000008749351, w: -0.77343}
+    m_Target: {x: 0.29902473, y: 0.7005743, z: -0.45551336, w: 0.46165106}
     speed: 2
-    m_Value: {x: -0.634215, y: -0.001812091, z: 0.000942577, w: -0.77315414}
+    m_Value: {x: 0.2989001, y: 0.7002823, z: -0.4553235, w: 0.46145862}
   m_Size:
-    m_Target: 80.83761
+    m_Target: 129.26447
     speed: 2
-    m_Value: 77.35656
+    m_Value: 129.26447
   m_Ortho:
     m_Target: 0
     speed: 2
