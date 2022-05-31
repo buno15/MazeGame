@@ -17,7 +17,7 @@ public class PlayerController : MonoBehaviour {
     public LayerMask goalMask;
     bool isGrounded;
     public static string gameState;
-    // Start is called before the first frame update
+
     void Start() {
         PlayerController.gameState = "playing";
         Invoke("controllOn", 2.0f);
@@ -43,6 +43,13 @@ public class PlayerController : MonoBehaviour {
         if (!CameraController.cameraLock) {
             axisH = Input.GetAxisRaw("Horizontal");
             axisV = Input.GetAxisRaw("Vertical");
+
+
+            if (axisH != 0 || axisV != 0) {
+                if (!SEManager.seSource.isPlaying)
+                    SEManager.seManager.footPlay();
+            } else if (axisH == 0 && axisV == 0) {
+            }
 
             Vector3 move = transform.right * axisH + transform.forward * axisV;
             controller.Move(move * speed * Time.deltaTime);

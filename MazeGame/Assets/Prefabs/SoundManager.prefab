@@ -16,7 +16,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5997460093219009455
 Transform:
@@ -45,10 +45,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bcb19cdfd1839b1259fba74d0ab4fe59, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bgmInTitle: {fileID: 8300000, guid: 6f6b52c7c5f44d082bd4b536848d1b07, type: 3}
-  bgmInGame: {fileID: 8300000, guid: 204b994c1e7794940894be944de86629, type: 3}
-  meGameClear: {fileID: 8300000, guid: c2c5990fde1b84fc1b8686b491fe7c7f, type: 3}
-  seButton: {fileID: 8300000, guid: ea2427123774ef303a8a57abd7458f44, type: 3}
+  bgmInTitle: {fileID: 8300000, guid: eb6cc133ba8396b0c9045dd5288f5b3b, type: 3}
+  bgmInGame: {fileID: 8300000, guid: eb6cc133ba8396b0c9045dd5288f5b3b, type: 3}
+  meGameClear: {fileID: 8300000, guid: 27b1ccc1bc92a5efcac8f6038ddcbfda, type: 3}
+  seButton: {fileID: 8300000, guid: cd90306e3a8f23bf3a09c4205c1c73b8, type: 3}
+  foot: {fileID: 8300000, guid: 28bab701df571fa28b295d848caac283, type: 3}
 --- !u!82 &5997460093219009454
 AudioSource:
   m_ObjectHideFlags: 0

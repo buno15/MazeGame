@@ -11,6 +11,7 @@ public enum BGMType {
 public enum SEType {
     GameClear,  //ゲームクリア
     Button,     //ボタン押し
+    None,
 }
 
 public class SoundManager : MonoBehaviour {

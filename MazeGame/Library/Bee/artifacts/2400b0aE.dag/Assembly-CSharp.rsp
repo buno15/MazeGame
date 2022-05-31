@@ -354,6 +354,7 @@
 "Assets/Scripts/GameManager.cs"
 "Assets/Scripts/GoalController.cs"
 "Assets/Scripts/LightController.cs"
+"Assets/Scripts/SEManager.cs"
 "Assets/Scripts/SoundManager.cs"
 "Assets/Scripts/StageManager.cs"
 "Assets/Scripts/TitleManager.cs"
