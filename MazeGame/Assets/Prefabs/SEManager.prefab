@@ -45,10 +45,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2b1cffcbc04e5056a897a90915dcc9b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  foot1: {fileID: 8300000, guid: 559f7a2f6bee5fce58e9c58c7944b336, type: 3}
-  foot2: {fileID: 8300000, guid: 4f47b9eafcfb85de79cbcd1c7074a787, type: 3}
-  foot3: {fileID: 8300000, guid: 820a33d0680cdb522aef7a10e23cf4ba, type: 3}
-  foot4: {fileID: 8300000, guid: f840deb348a4f90fb9ee5fec852167b1, type: 3}
+  foot1: {fileID: 8300000, guid: d1b40e9b28806ef06b788bb627c7f138, type: 3}
+  foot2: {fileID: 8300000, guid: fa77c18363ac187078c7fa8ac497b20d, type: 3}
+  foot3: {fileID: 8300000, guid: 9edc15b0fc668820d9b6211da69887a5, type: 3}
+  foot4: {fileID: 8300000, guid: 94933cfd0628c3e99b8543cdc09a9924, type: 3}
 --- !u!82 &904275127493970048
 AudioSource:
   m_ObjectHideFlags: 0
